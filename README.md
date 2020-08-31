@@ -11,7 +11,7 @@ Fun fact: 我会说中文 😄
 ## Some of my best projects
 1. [Software Engineering project in a group of 5 where we extended the functionalities of an already existing software](https://github.com/TiagoMAntunes/quizzes_tutor)
 2. [Development of a Distributed System from scratch](https://github.com/TiagoMAntunes/sauron-distributed-system)
-3. [Creationg of a programming language compiler for learning purposes](https://github.com/TiagoMAntunes/og_compiler)
+3. [Creation of a programming language compiler for learning purposes](https://github.com/TiagoMAntunes/og_compiler)
 4. [Development of a Client-Server Architecture from scratch in C with sockets](https://github.com/TiagoMAntunes/StudentForum)
 5. [Design of a high-end prototype to demonstrate a smartwatch concept](https://github.com/TiagoMAntunes/iGo)
 6. [Extension of an already existing software to support multi-threading and multi-process paradigm](https://github.com/TiagoMAntunes/Parallel-Circuit-Solver)
