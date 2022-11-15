@@ -1,17 +1,9 @@
 ## Hi there 👋
 
-Nice to meet you. My name is Tiago Antunes and I'm currently an Advanced Computing student @ Tsinghua University. In my repositories you can find many projects I have taken part in both during my studies and as side projects.
+I'm Tiago, an engineer with a focus on performance analysis and parallelisation. My **specialty** is in developing high performing applications with CUDA acceleration.
 
-My main interests are Distributed Systems, GPU programming and Machine Learning and I'm looking forward to expand my knowledge in these areas. I'm currently starting my research in the high performance computing area.
+I took my master's degree at **Tsinghua University** and I have worked on accelerating both Deep Learning and Big Data workloads.
 
-Feel free to reach out to me via [email](mailto:tiago.melo.antunes@gmail.com).
+I'm currently looking forward to continue expand my knowledge of **C++** as well as start diving more into **Rust**. I'm proficient in many other areas.
 
-Fun fact: 我会说中文！ 😄
-
-Some information about the pinned projects:
-- `FastMoE` is a Mixture-of-Expert PyTorch implementation with CUDA backend, and includes optimizations presents in a paper I worked on.
-- `AIOps2020` is a real-time system for anomaly detection with Kafka
-- `OG` is a compiler developed for learning during my major.
-- `graph_csr` is a parallel graph analytics crates written in Rust, with a focus on performance
-- `go_kv` is a simple KV server with a backend and CLI for a quick display of knowledge in writing web APIs in Golang
-- `Distributed-Systems-Mini-Projects` is my solution to the MIT 6.824 course, which includes developing a MapReduce and RAFT with a KV server all in golang, much more advanced than `go_kv`.
+Check the pinned projects for some of my most interesting works :) Thanks!
